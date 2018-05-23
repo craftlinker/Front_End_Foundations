@@ -1,0 +1,35 @@
+@media(min-width: 800px){
+    h1{
+        font-size: 50px;
+    }
+}
+
+h1 {
+    color:blue;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid black;
+    margin: 20px 20px 20px 20px;
+    
+}
+
+form input {
+    background-color: aqua;
+}
+
+form button {
+    background-color: rgb(93, 132, 238);
+    
+}
+
+
+
+form button:hover {
+    color: rgb(19, 224, 81);
+
+}
+
+body {
+    font-family: 'Shadows Into Light', cursive;
+     background-color: #518C8F;
+}
+
